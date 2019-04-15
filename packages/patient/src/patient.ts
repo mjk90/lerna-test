@@ -4,7 +4,7 @@ export default class Patient {
     return "your id is - " + id;
   }
   callpatient(){
-    return "calling patient 1";
+    return "calling patient";
   }
   getstatus(){
     return "gets patient status";
