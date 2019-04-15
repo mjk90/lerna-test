@@ -1,6 +1,6 @@
 {
   "name": "@ajay-sdk/doctor",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "> TODO: description",
   "author": "ajay matharu <ajmatharu@gmail.com>",
   "homepage": "",
@@ -22,6 +22,6 @@
   },
   "gitHead": "1657c1ea56224f39e356b449158853d08f5ce9e7",
   "dependencies": {
-    "@ajay-sdk/patient": "^0.1.0"
+    "@ajay-sdk/patient": "^0.2.0"
   }
 }
