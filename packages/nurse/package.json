@@ -1,0 +1,33 @@
+{
+  "name": "@matt125/nurse",
+  "version": "0.4.0",
+  "description": "> TODO: description",
+  "author": "Matt Kelly <mkelly2@live.co.uk>",
+  "homepage": "https://github.com/mjk90/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/nurse.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "keywords": [
+    "nurse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjk90/lerna-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjk90/lerna-test/issues"
+  }
+}
