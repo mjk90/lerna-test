@@ -7,7 +7,7 @@ export default class Doctor {
     return "doctor says yo";
   }
   sup(){
-    return "sup doc";
+    return "sup doc111";
   }
 
   getpatient(){

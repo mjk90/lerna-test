@@ -20,5 +20,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "dd553894058d8c050dd73f160a22b537090055f0"
+  "gitHead": "1657c1ea56224f39e356b449158853d08f5ce9e7"
 }
