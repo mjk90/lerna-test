@@ -1,6 +1,6 @@
 {
   "name": "@matt125/doctor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "> TODO: description",
   "author": "ajay matharu <ajmatharu@gmail.com>",
   "homepage": "",
@@ -22,6 +22,6 @@
   },
   "gitHead": "6b000bfa3fdd9c1d43e9b2b950f29cde4afa09bc",
   "dependencies": {
-    "@matt125/patient": "^0.2.0"
+    "@matt125/patient": "^0.3.0"
   }
 }
