@@ -7,8 +7,7 @@
   "license": "ISC",
   "main": "lib/doctor.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
@@ -20,8 +19,12 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6b000bfa3fdd9c1d43e9b2b950f29cde4afa09bc",
   "dependencies": {
-    "@matt125/patient": "^0.3.0"
-  }
+    "@matt125/patient": "^0.3.0",
+    "@types/node": "^11.13.4"
+  },
+  "devDependencies": {
+    "ts-node": "^8.1.0"
+  },
+  "keywords": []
 }

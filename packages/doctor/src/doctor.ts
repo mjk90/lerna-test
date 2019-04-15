@@ -1,4 +1,4 @@
-// import Patient from '@ajay-sdk/patient';
+import Patient from '@matt125/patient';
 
 export default class Doctor {
   constructor(){}
@@ -10,8 +10,10 @@ export default class Doctor {
     return "sup doc111"; 
   }
 
-  // getpatient(){
-  //   let p = new Patient();
-  //   p.get(2);
-  // }
+  getpatient(){
+    let p = new Patient();
+    return(p.get(2));
+  }
 }
+
+console.log(new Doctor().getpatient());
