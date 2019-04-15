@@ -7,7 +7,7 @@ export default class Nurse {
     return "calling nurse ";
   }
   getstatus(){
-    return "gets nurse status";
+    return "gets nurse status 1234";
   }
   getname(){
     return "gets nurse name";

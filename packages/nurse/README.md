@@ -6,7 +6,7 @@
 
 ```
 const nurse = require('nurse');
-test 1234
+test 12345678
 
 // TODO: DEMONSTRATE API
 ```
