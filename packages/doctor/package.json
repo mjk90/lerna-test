@@ -1,5 +1,5 @@
 {
-  "name": "@ajay-sdk/doctor",
+  "name": "@matt125/doctor",
   "version": "0.3.0",
   "description": "> TODO: description",
   "author": "ajay matharu <ajmatharu@gmail.com>",
@@ -20,8 +20,8 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "1657c1ea56224f39e356b449158853d08f5ce9e7",
+  "gitHead": "6b000bfa3fdd9c1d43e9b2b950f29cde4afa09bc",
   "dependencies": {
-    "@ajay-sdk/patient": "^0.2.0"
+    "@matt125/patient": "^0.2.0"
   }
 }
