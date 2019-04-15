@@ -4,7 +4,7 @@ export default class Nurse {
     return "your id is - " + id;
   }
   callpatient(){
-    return "calling nurse";
+    return "calling nurse ";
   }
   getstatus(){
     return "gets nurse status";
