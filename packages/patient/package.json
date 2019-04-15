@@ -1,11 +1,8 @@
 {
-  "name": "@hospital-sdk/patient",
-  "version": "0.1.0",
-  "description": "patient description",
-  "keywords": [
-    "patient"
-  ],
-  "author": "Matthew Kelly <matthew.kelly@block.one>",
+  "name": "@ajay-sdk/patient",
+  "version": "0.0.14",
+  "description": "> TODO: description",
+  "author": "ajay matharu <ajmatharu@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/patient.js",
@@ -16,8 +13,12 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "dd553894058d8c050dd73f160a22b537090055f0"
 }

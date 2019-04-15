@@ -1,11 +1,8 @@
 {
-  "name": "@hospital-sdk/doctor",
-  "version": "0.1.0",
-  "description": "doctor description",
-  "keywords": [
-    "doctor"
-  ],
-  "author": "Matthew Kelly <matthew.kelly@block.one>",
+  "name": "@ajay-sdk/doctor",
+  "version": "0.1.9",
+  "description": "> TODO: description",
+  "author": "ajay matharu <ajmatharu@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/doctor.js",
@@ -16,8 +13,15 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "8e7ae58b94cb4d41835d3aba8feb56f86f15d5d6",
+  "dependencies": {
+    "@ajay-sdk/patient": "^0.0.14"
   }
 }
