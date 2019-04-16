@@ -1,6 +1,6 @@
 {
   "name": "@matt125/doctor",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "> TODO: description",
   "author": "ajay matharu <ajmatharu@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@matt125/patient": "^0.4.0",
+    "@matt125/patient": "^0.5.0",
     "@types/node": "^11.13.4"
   },
   "devDependencies": {
