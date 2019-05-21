@@ -21,10 +21,12 @@
   },
   "dependencies": {
     "@matt125/patient": "^0.6.0",
-    "@types/node": "^11.13.4"
+    "@types/node": "^11.13.4",
+    "react-scripts": "2.1.5"
   },
   "devDependencies": {
     "ts-node": "^8.1.0"
   },
-  "keywords": []
+  "keywords": [],
+  "gitHead": "f93619482191111c93f359c485e1c7d07f82d222"
 }
