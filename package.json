@@ -3,12 +3,14 @@
   "devDependencies": {
     "@types/node": "^11.13.0",
     "lerna": "^3.13.1",
-    "typescript": "^3.4.1"
+    "typescript": "^3.4.1",
+    "react-scripts": "2.1.5"
   },
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
-  }
+  },
+  "version": "0.7.1"
 }
